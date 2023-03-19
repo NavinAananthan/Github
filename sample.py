@@ -8,8 +8,8 @@ def elapsedtime():
     print(end - start)
 
 
-# This python program is a sample demo how git works  hhjsfdhh
-
+# This python program is a sample demo how git works  
+# THe code has been modified and changed
 def countdown(time_sec):
     while time_sec:
         mins, secs = divmod(time_sec, 60)
